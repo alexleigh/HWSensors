@@ -1710,7 +1710,6 @@
 				INFOPLIST_PREPROCESS = YES;
 				MACOSX_DEPLOYMENT_TARGET = 10.6;
 				ONLY_ACTIVE_ARCH = YES;
-				SDKROOT = macosx10.6;
 				SKIP_INSTALL = YES;
 				VALID_ARCHS = x86_64;
 				VERSION_FILE = Shared/version.plist;
@@ -1736,7 +1735,6 @@
 				INFOPLIST_PREFIX_HEADER = Shared/HWSensorsVersion.pch;
 				INFOPLIST_PREPROCESS = YES;
 				MACOSX_DEPLOYMENT_TARGET = 10.6;
-				SDKROOT = macosx10.6;
 				SKIP_INSTALL = YES;
 				VALID_ARCHS = x86_64;
 				VERSION_FILE = Shared/version.plist;
